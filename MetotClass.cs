@@ -6,7 +6,7 @@ namespace Patika.dev
 {
     class Program
     {
-             
+
         static void Main(string[] args)
         {
 
@@ -15,11 +15,14 @@ namespace Patika.dev
             int sonuc = a + b;
 
             Methodlar yazdir = new Methodlar();
-            yazdir.EkranaYazdir("Method yazdir: "+sonuc.ToString());
+            yazdir.EkranaYazdir("Method yazdir: " + sonuc.ToString());
+
+            string s1 = "Tolga", s2 = "Hardal";
+            yazdir.EkranaYazdir(s1, s2);
 
         }
 
-        static int Topla(int num1,int num2)
+        static int Topla(int num1, int num2)
         {
             return num1 + num2;
         }
@@ -33,8 +36,20 @@ namespace Patika.dev
             Console.WriteLine(str);
         }
 
+        // Overloading
+
+        public void EkranaYazdir(int str)
+        {
+            Console.WriteLine(str);
+        }
+
+        public void EkranaYazdir(string str1, string str2)
+        {
+            Console.WriteLine(str1 + " " + str2);
+        }
+
     }
 }
 
-    
+
 
