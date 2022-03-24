@@ -16,6 +16,9 @@ namespace ConsoleApp1
 
             c1.CalisanBilgileri();
 
+            Calisan c2 = new Calisan("Alper", "Agust", 222, "data");
+            c2.CalisanBilgileri();
+
         }
     }
 
@@ -26,6 +29,15 @@ namespace ConsoleApp1
         public int No;
         public string Departman;
 
+        public Calisan(string ad, string soyad, int no, string departman)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Departman = departman;
+        }
+
+        public Calisan() { }
 
         public void CalisanBilgileri()
         {
