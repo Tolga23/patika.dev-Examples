@@ -1,0 +1,15 @@
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.exe
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.deps.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.runtimeconfig.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.runtimeconfig.dev.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ref\PhoneDirectory.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\PhoneDirectory.pdb
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.AssemblyInfoInputs.cache
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.AssemblyInfo.cs
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ref\PhoneDirectory.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.pdb
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\PhoneDirectory.genruntimeconfig.cache

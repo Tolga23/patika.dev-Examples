@@ -1,0 +1,16 @@
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.exe
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.deps.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.runtimeconfig.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.runtimeconfig.dev.json
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ref\Patika.dev.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\Patika.dev.pdb
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.csproj.AssemblyReference.cache
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.AssemblyInfoInputs.cache
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.AssemblyInfo.cs
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ref\Patika.dev.dll
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.pdb
+C:\Users\tolga\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\Patika.dev.genruntimeconfig.cache
